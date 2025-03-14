@@ -1,1 +1,1 @@
-https://github.com/Rew321/Django-Signals/blob/main/static/screenshots/image.png
+https://github.com/Rew321/Django-Signals/blob/master/static/screenshots/image.png
